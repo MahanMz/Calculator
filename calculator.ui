@@ -142,9 +142,9 @@ border-style: hidden;
     </property>
     <property name="font">
      <font>
-      <pointsize>14</pointsize>
-      <weight>50</weight>
-      <bold>false</bold>
+      <pointsize>15</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="styleSheet">
@@ -156,7 +156,7 @@ border-style: hidden;
 }</string>
     </property>
     <property name="text">
-     <string>clear</string>
+     <string>C</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn4">
@@ -601,7 +601,7 @@ color: white;
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>square-outline-32.png</normaloff>square-outline-32.png</iconset>
+      <normaloff>Maximize.png</normaloff>Maximize.png</iconset>
     </property>
    </widget>
    <widget class="QPushButton" name="btnMinimize">
@@ -636,7 +636,7 @@ color: white;
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>minus-32.png</normaloff>minus-32.png</iconset>
+      <normaloff>Minimize.png</normaloff>Minimize.png</iconset>
     </property>
    </widget>
    <zorder>label</zorder>
