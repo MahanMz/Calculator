@@ -626,9 +626,7 @@ border: 5px solid #6c6c6c;
 color: darkgray;
 }
 QWidget:hover{
-background-color: red;
-border-color: red;
-color: white;
+border-color: gray;
 }</string>
     </property>
     <property name="text">
